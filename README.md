@@ -2,7 +2,7 @@
 
 Help David find his baby bear and bring it home before the hungry dinosaur gets to it!
 
-https://github.com/seewhatimade/david_and_bear.github.io/
+[https://github.com/seewhatimade/david_and_bear.github.io/](https://seewhatimade.github.io/david_and_bear.github.io/)
 
 ## How to Play
 
